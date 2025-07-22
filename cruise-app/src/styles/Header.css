@@ -1,0 +1,7 @@
+.header {
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 36px;
+    background-color: #023E8A;
+    display: flex;
+}
